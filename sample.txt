@@ -1,1 +1,1 @@
-Hi, this is sample.txt
+Hi, this is sample.txt. This is some new text!
